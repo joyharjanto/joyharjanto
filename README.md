@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Joy and I am a noob-ish technologist. 
+### Hi there 👋 My name is Joy and I am a technologist. 
 
 🌱 Work is primarily done in R, Python and Javascript </br>
 ✨ When programming, I strive for continuous improvement and not perfection </br>
