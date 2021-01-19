@@ -1,8 +1,6 @@
-### Hi there 👋 My name is Joy and I am a technologist. 
+### Hi there 👋 
 
 🌱 Work is primarily done in R, Python and Javascript </br>
-✨ When programming, I strive for continuous improvement and not perfection </br>
-✍🏻 Currently working on Flask related projects and attempting Advent of Code </br>
 
 
 
