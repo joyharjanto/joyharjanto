@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-✨ I am a writer and technologist by the way of data, viz, and full stack
+✨ engineer & writer based in nyc
 🌱 I write code in R, Python, and Javascript
 
 
